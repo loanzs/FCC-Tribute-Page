@@ -23,6 +23,8 @@
     margin: 0;
     background-color: #99996b;
     font-size: 2vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
   }
   
   .container {
